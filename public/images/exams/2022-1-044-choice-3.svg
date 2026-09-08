@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 56" role="img" aria-labelledby="title">
+  <title id="title">이중 타원</title>
+  <ellipse cx="60" cy="28" rx="42" ry="20" fill="none" stroke="#202521" stroke-width="2.5" />
+  <ellipse cx="60" cy="28" rx="33" ry="14" fill="none" stroke="#202521" stroke-width="2.5" />
+</svg>

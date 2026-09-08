@@ -1,0 +1,3325 @@
+﻿{
+  "summary": {
+    "files": 19,
+    "exams": [
+      {
+        "examId": "2020-2",
+        "title": "2020년 2회 정보처리기사 필기",
+        "questions": 100
+      },
+      {
+        "examId": "2020-3",
+        "title": "2020년 3회 정보처리기사 필기",
+        "questions": 100
+      },
+      {
+        "examId": "2020-4",
+        "title": "2020년 4회 정보처리기사 필기",
+        "questions": 100
+      },
+      {
+        "examId": "2021-1",
+        "title": "2021년 1회 정보처리기사 필기",
+        "questions": 100
+      },
+      {
+        "examId": "2021-2",
+        "title": "2021년 2회 정보처리기사 필기",
+        "questions": 100
+      },
+      {
+        "examId": "2021-3",
+        "title": "2021년 3회 정보처리기사 필기",
+        "questions": 100
+      },
+      {
+        "examId": "2022-1",
+        "title": "2022년 1회 정보처리기사 필기",
+        "questions": 100
+      },
+      {
+        "examId": "2022-2",
+        "title": "2022년 2회 정보처리기사 필기",
+        "questions": 100
+      },
+      {
+        "examId": "2022-3",
+        "title": "2022년 3회 정보처리기사 필기",
+        "questions": 100
+      },
+      {
+        "examId": "2023-1",
+        "title": "2023년 1회 정보처리기사 필기",
+        "questions": 100
+      },
+      {
+        "examId": "2023-2",
+        "title": "2023년 2회 정보처리기사 필기",
+        "questions": 100
+      },
+      {
+        "examId": "2023-3",
+        "title": "2023년 3회 정보처리기사 필기",
+        "questions": 100
+      },
+      {
+        "examId": "2024-1",
+        "title": "2024년 1회 정보처리기사 필기",
+        "questions": 100
+      },
+      {
+        "examId": "2024-2",
+        "title": "2024년 2회 정보처리기사 필기",
+        "questions": 100
+      },
+      {
+        "examId": "2024-3",
+        "title": "2024년 3회 정보처리기사 필기",
+        "questions": 100
+      },
+      {
+        "examId": "2025-1",
+        "title": "2025년 1회 정보처리기사 필기",
+        "questions": 100
+      },
+      {
+        "examId": "2025-2",
+        "title": "2025년 2회 정보처리기사 필기",
+        "questions": 100
+      },
+      {
+        "examId": "2025-3",
+        "title": "2025년 3회 정보처리기사 필기",
+        "questions": 100
+      },
+      {
+        "examId": "2026-1",
+        "title": "2026년 1회 정보처리기사 필기",
+        "questions": 100
+      }
+    ],
+    "totalQuestions": 1900
+  },
+  "codeFormattingCandidates": [
+    {
+      "examId": "2020-2",
+      "id": "2020-2-059",
+      "number": 59,
+      "reason": "code marker in question text without code field"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-047",
+      "number": 47,
+      "reason": "code marker in question text without code field"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-057",
+      "number": 57,
+      "reason": "code marker in question text without code field"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-047",
+      "number": 47,
+      "reason": "code marker in question text without code field"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-046",
+      "number": 46,
+      "reason": "code marker in question text without code field"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-043",
+      "number": 43,
+      "reason": "code marker in question text without code field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-041",
+      "number": 41,
+      "reason": "code marker in question text without code field"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-044",
+      "number": 44,
+      "reason": "code marker in question text without code field"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-041",
+      "number": 41,
+      "reason": "code marker in question text without code field"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-053",
+      "number": 53,
+      "reason": "code marker in question text without code field"
+    }
+  ],
+  "tableFormattingCandidates": [
+    {
+      "examId": "2020-2",
+      "id": "2020-2-040",
+      "number": 40,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-2",
+      "id": "2020-2-042",
+      "number": 42,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-2",
+      "id": "2020-2-043",
+      "number": 43,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-2",
+      "id": "2020-2-048",
+      "number": 48,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-2",
+      "id": "2020-2-054",
+      "number": 54,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-2",
+      "id": "2020-2-056",
+      "number": 56,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-2",
+      "id": "2020-2-059",
+      "number": 59,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-2",
+      "id": "2020-2-072",
+      "number": 72,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-2",
+      "id": "2020-2-094",
+      "number": 94,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-011",
+      "number": 11,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-041",
+      "number": 41,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-053",
+      "number": 53,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-056",
+      "number": 56,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-059",
+      "number": 59,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-066",
+      "number": 66,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-073",
+      "number": 73,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-074",
+      "number": 74,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-098",
+      "number": 98,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-038",
+      "number": 38,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-041",
+      "number": 41,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-042",
+      "number": 42,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-044",
+      "number": 44,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-048",
+      "number": 48,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-049",
+      "number": 49,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-057",
+      "number": 57,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-059",
+      "number": 59,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-070",
+      "number": 70,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-071",
+      "number": 71,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-089",
+      "number": 89,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-094",
+      "number": 94,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-041",
+      "number": 41,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-042",
+      "number": 42,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-049",
+      "number": 49,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-053",
+      "number": 53,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-054",
+      "number": 54,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-055",
+      "number": 55,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-056",
+      "number": 56,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-057",
+      "number": 57,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-079",
+      "number": 79,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-010",
+      "number": 10,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-013",
+      "number": 13,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-017",
+      "number": 17,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-029",
+      "number": 29,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-041",
+      "number": 41,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-050",
+      "number": 50,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-059",
+      "number": 59,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-064",
+      "number": 64,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-086",
+      "number": 86,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-027",
+      "number": 27,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-042",
+      "number": 42,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-045",
+      "number": 45,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-048",
+      "number": 48,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-049",
+      "number": 49,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-056",
+      "number": 56,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-060",
+      "number": 60,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-084",
+      "number": 84,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-008",
+      "number": 8,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-023",
+      "number": 23,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-027",
+      "number": 27,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-031",
+      "number": 31,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-043",
+      "number": 43,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-047",
+      "number": 47,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-049",
+      "number": 49,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-057",
+      "number": 57,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-059",
+      "number": 59,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-075",
+      "number": 75,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-083",
+      "number": 83,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-010",
+      "number": 10,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-041",
+      "number": 41,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-051",
+      "number": 51,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-055",
+      "number": 55,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-056",
+      "number": 56,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-057",
+      "number": 57,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-059",
+      "number": 59,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-060",
+      "number": 60,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-067",
+      "number": 67,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-076",
+      "number": 76,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-079",
+      "number": 79,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-098",
+      "number": 98,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-013",
+      "number": 13,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-060",
+      "number": 60,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-061",
+      "number": 61,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-069",
+      "number": 69,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-070",
+      "number": 70,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-042",
+      "number": 42,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-046",
+      "number": 46,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-050",
+      "number": 50,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-051",
+      "number": 51,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-053",
+      "number": 53,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-058",
+      "number": 58,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-059",
+      "number": 59,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-069",
+      "number": 69,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-094",
+      "number": 94,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-048",
+      "number": 48,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-051",
+      "number": 51,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-053",
+      "number": 53,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-054",
+      "number": 54,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-057",
+      "number": 57,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-058",
+      "number": 58,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-067",
+      "number": 67,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-098",
+      "number": 98,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-009",
+      "number": 9,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-043",
+      "number": 43,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-048",
+      "number": 48,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-051",
+      "number": 51,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-053",
+      "number": 53,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-055",
+      "number": 55,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-057",
+      "number": 57,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-069",
+      "number": 69,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-073",
+      "number": 73,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-079",
+      "number": 79,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-094",
+      "number": 94,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-025",
+      "number": 25,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-041",
+      "number": 41,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-051",
+      "number": 51,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-054",
+      "number": 54,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-055",
+      "number": 55,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-058",
+      "number": 58,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-059",
+      "number": 59,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-066",
+      "number": 66,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-072",
+      "number": 72,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-079",
+      "number": 79,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-089",
+      "number": 89,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-005",
+      "number": 5,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-006",
+      "number": 6,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-009",
+      "number": 9,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-030",
+      "number": 30,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-037",
+      "number": 37,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-046",
+      "number": 46,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-054",
+      "number": 54,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-056",
+      "number": 56,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-072",
+      "number": 72,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-041",
+      "number": 41,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-044",
+      "number": 44,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-047",
+      "number": 47,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-048",
+      "number": 48,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-050",
+      "number": 50,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-053",
+      "number": 53,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-054",
+      "number": 54,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-056",
+      "number": 56,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-057",
+      "number": 57,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-067",
+      "number": 67,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-068",
+      "number": 68,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-069",
+      "number": 69,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-070",
+      "number": 70,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-095",
+      "number": 95,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-100",
+      "number": 100,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-047",
+      "number": 47,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-052",
+      "number": 52,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-076",
+      "number": 76,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-085",
+      "number": 85,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-043",
+      "number": 43,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-044",
+      "number": 44,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-051",
+      "number": 51,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-056",
+      "number": 56,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-059",
+      "number": 59,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-072",
+      "number": 72,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-098",
+      "number": 98,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-020",
+      "number": 20,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-035",
+      "number": 35,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-041",
+      "number": 41,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-045",
+      "number": 45,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-047",
+      "number": 47,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-048",
+      "number": 48,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-051",
+      "number": 51,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-056",
+      "number": 56,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-057",
+      "number": 57,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-060",
+      "number": 60,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-097",
+      "number": 97,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-098",
+      "number": 98,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-010",
+      "number": 10,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-014",
+      "number": 14,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-037",
+      "number": 37,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-040",
+      "number": 40,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-044",
+      "number": 44,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-047",
+      "number": 47,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-048",
+      "number": 48,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-054",
+      "number": 54,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-056",
+      "number": 56,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-057",
+      "number": 57,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-093",
+      "number": 93,
+      "reason": "table-like text in question field"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-094",
+      "number": 94,
+      "reason": "table-like text in question field"
+    }
+  ],
+  "imageReviewCandidates": [
+    {
+      "examId": "2020-2",
+      "id": "2020-2-004",
+      "number": 4,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2020-2",
+      "id": "2020-2-015",
+      "number": 15,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2020-2",
+      "id": "2020-2-016",
+      "number": 16,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2020-2",
+      "id": "2020-2-020",
+      "number": 20,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2020-2",
+      "id": "2020-2-022",
+      "number": 22,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2020-2",
+      "id": "2020-2-034",
+      "number": 34,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2020-2",
+      "id": "2020-2-053",
+      "number": 53,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-006",
+      "number": 6,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-012",
+      "number": 12,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-014",
+      "number": 14,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-026",
+      "number": 26,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-029",
+      "number": 29,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-040",
+      "number": 40,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-002",
+      "number": 2,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-009",
+      "number": 9,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-011",
+      "number": 11,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-032",
+      "number": 32,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-033",
+      "number": 33,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-046",
+      "number": 46,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-087",
+      "number": 87,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-003",
+      "number": 3,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-005",
+      "number": 5,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-008",
+      "number": 8,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-031",
+      "number": 31,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-037",
+      "number": 37,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-058",
+      "number": 58,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-007",
+      "number": 7,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-018",
+      "number": 18,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-002",
+      "number": 2,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-008",
+      "number": 8,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-010",
+      "number": 10,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-015",
+      "number": 15,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-016",
+      "number": 16,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-023",
+      "number": 23,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-037",
+      "number": 37,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-038",
+      "number": 38,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-060",
+      "number": 60,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-006",
+      "number": 6,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-011",
+      "number": 11,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-037",
+      "number": 37,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-001",
+      "number": 1,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-019",
+      "number": 19,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-100",
+      "number": 100,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-006",
+      "number": 6,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-011",
+      "number": 11,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-016",
+      "number": 16,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-024",
+      "number": 24,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-042",
+      "number": 42,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-057",
+      "number": 57,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-004",
+      "number": 4,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-007",
+      "number": 7,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-010",
+      "number": 10,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-011",
+      "number": 11,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-025",
+      "number": 25,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-036",
+      "number": 36,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-001",
+      "number": 1,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-012",
+      "number": 12,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-015",
+      "number": 15,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-036",
+      "number": 36,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-039",
+      "number": 39,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-041",
+      "number": 41,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-043",
+      "number": 43,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-004",
+      "number": 4,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-011",
+      "number": 11,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-012",
+      "number": 12,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-014",
+      "number": 14,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-024",
+      "number": 24,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-001",
+      "number": 1,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-007",
+      "number": 7,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-008",
+      "number": 8,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-013",
+      "number": 13,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-018",
+      "number": 18,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-020",
+      "number": 20,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-023",
+      "number": 23,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-028",
+      "number": 28,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-031",
+      "number": 31,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-033",
+      "number": 33,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-039",
+      "number": 39,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-003",
+      "number": 3,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-016",
+      "number": 16,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-039",
+      "number": 39,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-044",
+      "number": 44,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-047",
+      "number": 47,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-057",
+      "number": 57,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-006",
+      "number": 6,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-011",
+      "number": 11,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-024",
+      "number": 24,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-039",
+      "number": 39,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-004",
+      "number": 4,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-008",
+      "number": 8,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-012",
+      "number": 12,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-016",
+      "number": 16,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-019",
+      "number": 19,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-024",
+      "number": 24,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-032",
+      "number": 32,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-049",
+      "number": 49,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-006",
+      "number": 6,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-017",
+      "number": 17,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-026",
+      "number": 26,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-042",
+      "number": 42,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-099",
+      "number": 99,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-002",
+      "number": 2,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-010",
+      "number": 10,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-017",
+      "number": 17,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-019",
+      "number": 19,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-026",
+      "number": 26,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-029",
+      "number": 29,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-036",
+      "number": 36,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-013",
+      "number": 13,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-028",
+      "number": 28,
+      "reason": "image cue without image field"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-054",
+      "number": 54,
+      "reason": "image cue without image field"
+    }
+  ],
+  "malformedTextCandidates": [
+    {
+      "examId": "2021-2",
+      "id": "2021-2-062",
+      "number": 62,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-066",
+      "number": 66,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-070",
+      "number": 70,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-064",
+      "number": 64,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-066",
+      "number": 66,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-071",
+      "number": 71,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-062",
+      "number": 62,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-072",
+      "number": 72,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-076",
+      "number": 76,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-062",
+      "number": 62,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-063",
+      "number": 63,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-074",
+      "number": 74,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-079",
+      "number": 79,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-062",
+      "number": 62,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-063",
+      "number": 63,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-064",
+      "number": 64,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-067",
+      "number": 67,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-071",
+      "number": 71,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-076",
+      "number": 76,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-078",
+      "number": 78,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-065",
+      "number": 65,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-066",
+      "number": 66,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-079",
+      "number": 79,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-062",
+      "number": 62,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-100",
+      "number": 100,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-070",
+      "number": 70,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-066",
+      "number": 66,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-063",
+      "number": 63,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-067",
+      "number": 67,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-070",
+      "number": 70,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-075",
+      "number": 75,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-063",
+      "number": 63,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-062",
+      "number": 62,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-064",
+      "number": 64,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-064",
+      "number": 64,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-068",
+      "number": 68,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-076",
+      "number": 76,
+      "reason": "HTML tag-like text found"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-100",
+      "number": 100,
+      "reason": "HTML tag-like text found"
+    }
+  ],
+  "tableShapeErrors": [],
+  "dataIntegrityErrors": [],
+  "needsReviewQuestions": [
+    {
+      "examId": "2020-2",
+      "id": "2020-2-021",
+      "number": 21,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2020-2",
+      "id": "2020-2-022",
+      "number": 22,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2020-2",
+      "id": "2020-2-034",
+      "number": 34,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2020-2",
+      "id": "2020-2-042",
+      "number": 42,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2020-2",
+      "id": "2020-2-057",
+      "number": 57,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-024",
+      "number": 24,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-029",
+      "number": 29,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-040",
+      "number": 40,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-044",
+      "number": 44,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-053",
+      "number": 53,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-058",
+      "number": 58,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-061",
+      "number": 61,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-078",
+      "number": 78,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2020-3",
+      "id": "2020-3-097",
+      "number": 97,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-032",
+      "number": 32,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-039",
+      "number": 39,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-047",
+      "number": 47,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2020-4",
+      "id": "2020-4-063",
+      "number": 63,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-004",
+      "number": 4,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-012",
+      "number": 12,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-023",
+      "number": 23,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-037",
+      "number": 37,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-048",
+      "number": 48,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-060",
+      "number": 60,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-074",
+      "number": 74,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-075",
+      "number": 75,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-1",
+      "id": "2021-1-091",
+      "number": 91,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-020",
+      "number": 20,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-023",
+      "number": 23,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-039",
+      "number": 39,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-045",
+      "number": 45,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-047",
+      "number": 47,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-053",
+      "number": 53,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-055",
+      "number": 55,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-062",
+      "number": 62,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-063",
+      "number": 63,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-066",
+      "number": 66,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-069",
+      "number": 69,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-070",
+      "number": 70,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-075",
+      "number": 75,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-2",
+      "id": "2021-2-077",
+      "number": 77,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-037",
+      "number": 37,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-038",
+      "number": 38,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-043",
+      "number": 43,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-046",
+      "number": 46,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-048",
+      "number": 48,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-054",
+      "number": 54,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-063",
+      "number": 63,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-064",
+      "number": 64,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-066",
+      "number": 66,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-067",
+      "number": 67,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-071",
+      "number": 71,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2021-3",
+      "id": "2021-3-073",
+      "number": 73,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-042",
+      "number": 42,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-044",
+      "number": 44,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-049",
+      "number": 49,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-051",
+      "number": 51,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-053",
+      "number": 53,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-054",
+      "number": 54,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-057",
+      "number": 57,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-062",
+      "number": 62,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-072",
+      "number": 72,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-073",
+      "number": 73,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-076",
+      "number": 76,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-077",
+      "number": 77,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-1",
+      "id": "2022-1-079",
+      "number": 79,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-022",
+      "number": 22,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-033",
+      "number": 33,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-044",
+      "number": 44,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-057",
+      "number": 57,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-062",
+      "number": 62,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-063",
+      "number": 63,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-065",
+      "number": 65,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-071",
+      "number": 71,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-072",
+      "number": 72,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-074",
+      "number": 74,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-2",
+      "id": "2022-2-079",
+      "number": 79,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-017",
+      "number": 17,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-024",
+      "number": 24,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-034",
+      "number": 34,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-042",
+      "number": 42,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-047",
+      "number": 47,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-062",
+      "number": 62,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-063",
+      "number": 63,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-064",
+      "number": 64,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2022-3",
+      "id": "2022-3-065",
+      "number": 65,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-025",
+      "number": 25,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-026",
+      "number": 26,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-030",
+      "number": 30,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-036",
+      "number": 36,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-041",
+      "number": 41,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-044",
+      "number": 44,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-046",
+      "number": 46,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-052",
+      "number": 52,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-053",
+      "number": 53,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-058",
+      "number": 58,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-067",
+      "number": 67,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-071",
+      "number": 71,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-076",
+      "number": 76,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-078",
+      "number": 78,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-1",
+      "id": "2023-1-080",
+      "number": 80,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-026",
+      "number": 26,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-043",
+      "number": 43,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-044",
+      "number": 44,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-048",
+      "number": 48,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-049",
+      "number": 49,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-050",
+      "number": 50,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-052",
+      "number": 52,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-057",
+      "number": 57,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-063",
+      "number": 63,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-065",
+      "number": 65,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-2",
+      "id": "2023-2-077",
+      "number": 77,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-008",
+      "number": 8,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-024",
+      "number": 24,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-039",
+      "number": 39,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-043",
+      "number": 43,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-048",
+      "number": 48,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-055",
+      "number": 55,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-063",
+      "number": 63,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-066",
+      "number": 66,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-072",
+      "number": 72,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-075",
+      "number": 75,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2023-3",
+      "id": "2023-3-079",
+      "number": 79,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-023",
+      "number": 23,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-028",
+      "number": 28,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-031",
+      "number": 31,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-048",
+      "number": 48,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-058",
+      "number": 58,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-062",
+      "number": 62,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-067",
+      "number": 67,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-069",
+      "number": 69,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-1",
+      "id": "2024-1-100",
+      "number": 100,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-004",
+      "number": 4,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-044",
+      "number": 44,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-047",
+      "number": 47,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-051",
+      "number": 51,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-054",
+      "number": 54,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-057",
+      "number": 57,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-063",
+      "number": 63,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-069",
+      "number": 69,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-070",
+      "number": 70,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-074",
+      "number": 74,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-075",
+      "number": 75,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-076",
+      "number": 76,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-079",
+      "number": 79,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-2",
+      "id": "2024-2-084",
+      "number": 84,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-019",
+      "number": 19,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-024",
+      "number": 24,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-047",
+      "number": 47,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-066",
+      "number": 66,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2024-3",
+      "id": "2024-3-074",
+      "number": 74,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-024",
+      "number": 24,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-053",
+      "number": 53,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-057",
+      "number": 57,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-060",
+      "number": 60,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-063",
+      "number": 63,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-065",
+      "number": 65,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-067",
+      "number": 67,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-070",
+      "number": 70,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-072",
+      "number": 72,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-1",
+      "id": "2025-1-075",
+      "number": 75,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-004",
+      "number": 4,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-026",
+      "number": 26,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-044",
+      "number": 44,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-056",
+      "number": 56,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-058",
+      "number": 58,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-063",
+      "number": 63,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-065",
+      "number": 65,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-067",
+      "number": 67,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-069",
+      "number": 69,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-071",
+      "number": 71,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-074",
+      "number": 74,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-2",
+      "id": "2025-2-076",
+      "number": 76,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-029",
+      "number": 29,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-036",
+      "number": 36,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-045",
+      "number": 45,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-062",
+      "number": 62,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-064",
+      "number": 64,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-065",
+      "number": 65,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-066",
+      "number": 66,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-073",
+      "number": 73,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2025-3",
+      "id": "2025-3-091",
+      "number": 91,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-006",
+      "number": 6,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-027",
+      "number": 27,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-046",
+      "number": 46,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-053",
+      "number": 53,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-056",
+      "number": 56,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-064",
+      "number": 64,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-068",
+      "number": 68,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-072",
+      "number": 72,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-073",
+      "number": 73,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-076",
+      "number": 76,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-080",
+      "number": 80,
+      "reason": "needsReview true"
+    },
+    {
+      "examId": "2026-1",
+      "id": "2026-1-100",
+      "number": 100,
+      "reason": "needsReview true"
+    }
+  ]
+}
